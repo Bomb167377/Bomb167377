@@ -1,0 +1,4 @@
+netsh int ip set subinterface "Ethernet" mtu=1350 store=persistent
+
+
+run cmd as administrator
